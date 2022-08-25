@@ -5,7 +5,12 @@
 1337x.to##.pull-right.col-3
 ||1337x.to/css/images/black-gradient-bg.jpg$image
 1337x.to##.navbar-menu
-1337x.to/anoydl9-VpnHideMe
+||1337x.to/anoydl9-VpnHideMe
+1337x.to##footer
+1337x.to##.clearfix.box-info-detail
+1337x.to##.clearfix.box-info-heading
+||1337x.to/images/logo.svg$image
+||1337x.to/images/logo.svg$image
 
 ! 2021-12-05 https://thepiratebay.org
 thepiratebay.org###porn
