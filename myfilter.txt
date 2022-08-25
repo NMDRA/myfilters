@@ -1,0 +1,31 @@
+! 2021-11-17 https://1337x.to
+1337x.to##.search-categories
+1337x.to##.top-bar
+1337x.to##h2
+1337x.to##.pull-right.col-3
+
+! 2021-12-05 https://thepiratebay.org
+thepiratebay.org###porn
+
+! 2022-01-27 http://audiobookbay.nl
+||audiobookbay.nl/images/bin.jpg$image
+||audiobookbay.nl/images/fr.jpg$image
+
+! 2022-01-30 https://1337x.to
+||1337x.to/images/x28.jpg$image
+
+! 2022-03-27 https://torrentgalaxy.to
+torrentgalaxy.to##.smallhide.col-sm-12.col-lg-2
+torrentgalaxy.to##div#intblock.txlight.panel-primary.panel:nth-of-type(1)
+torrentgalaxy.to##.text-center.list-unstyled
+torrentgalaxy.to##.slidingDivb-e696f3ee9f09458c6a6d5ae230972a5785e1c10a.panel-body
+torrentgalaxy.to###inthpheader
+torrentgalaxy.to###intblockslide .txdark.panel-primary.panel
+
+! 2022-07-03 https://1337x.to
+||1337x.to/css/images/atopg.gif$image
+1337x.to##.slick-track
+
+! 2022-08-16 https://nyaa.si
+nyaa.si##[href="//sukebei.nyaa.si"]
+
