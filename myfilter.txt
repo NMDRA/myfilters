@@ -3,6 +3,8 @@
 1337x.to##.top-bar
 1337x.to##h2
 1337x.to##.pull-right.col-3
+||1337x.to/css/images/black-gradient-bg.jpg$image
+1337x.to##.navbar-menu
 
 ! 2021-12-05 https://thepiratebay.org
 thepiratebay.org###porn
