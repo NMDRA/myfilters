@@ -1,17 +1,3 @@
-! 2021-11-17 https://1337x.to
-1337x.to##.search-categories
-1337x.to##.top-bar
-1337x.to##h2
-1337x.to##.pull-right.col-3
-||1337x.to/css/images/black-gradient-bg.jpg$image
-1337x.to##.navbar-menu
-||1337x.to/anoydl9-VpnHideMe
-1337x.to##footer
-1337x.to##.clearfix.box-info-detail
-1337x.to##.clearfix.box-info-heading
-||1337x.to/images/logo.svg$image
-||1337x.to/images/logo.svg$image
-
 ! 2021-12-05 https://thepiratebay.org
 thepiratebay.org###porn
 
@@ -37,39 +23,18 @@ torrentgalaxy.to###intblockslide .txdark.panel-primary.panel
 ! 2022-08-16 https://nyaa.si
 nyaa.si##[href="//sukebei.nyaa.si"]
 
-! 2022-12-25 https://www.reddit.com
-www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
+! 2023-01-03 https://1337x.to
+1337x.to##.pull-right.col-3
 
-! 2022-12-25 https://web.facebook.com
-web.facebook.com##.xdt5ytf.x1n2onr6.x1iyjqo2.x78zum5 > .x1y1aw1k
-web.facebook.com##.x9e5oc1.xxzkxad.x7wzq59.x1xzczws.x10wlt62.x6ikm8r.x1u2d2a2.x1t2pt76.xxc7z9f.xnjgh8c.x112wk31.xnp8db0.x1ja2u2z.x9f619 > .x1t2pt76.xedcshv.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xq1qtft.x1n2onr6.x1e4zzel.x1odjw0f.x1oyok0e.xwo3gff.xx8ngbg.x2lwn1j.xs83m0k.x1iyjqo2.x1l7klhg.xjx87ck.x1yqm8si.xfk6m8.x1rohswg.x1pq812k.x1ja2u2z.x6ikm8r.xdt5ytf.x78zum5.x5lxg6s.x1q594ok.xb57i2i > .xdt5ytf.x1n2onr6.x1iyjqo2.x78zum5
-web.facebook.com##.x1daaz14.xxzkxad.x7wzq59.x10wlt62.x6ikm8r.x1u2d2a2.x1t2pt76.xxc7z9f.xnjgh8c.x112wk31.xnp8db0.x1ja2u2z.x9f619 > .x1t2pt76.xedcshv.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xq1qtft.x1n2onr6.x1e4zzel.x1odjw0f.x1oyok0e.xwo3gff.xx8ngbg.x2lwn1j.xs83m0k.x1iyjqo2.x1l7klhg.xjx87ck.x1yqm8si.xfk6m8.x1rohswg.x1pq812k.x1ja2u2z.x6ikm8r.xdt5ytf.x78zum5.x5lxg6s.x1q594ok.xb57i2i > .xdt5ytf.x1n2onr6.x1iyjqo2.x78zum5
-web.facebook.com##.x1daaz14.xxzkxad.x7wzq59.x10wlt62.x6ikm8r.x1u2d2a2.x1t2pt76.xxc7z9f.xnjgh8c.x112wk31.xnp8db0.x1ja2u2z.x9f619 > .x1t2pt76.xedcshv.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xq1qtft.x1n2onr6.x1e4zzel.x1odjw0f.x1oyok0e.xwo3gff.xx8ngbg.x2lwn1j.xs83m0k.x1iyjqo2.x1l7klhg.xjx87ck.x1yqm8si.xfk6m8.x1rohswg.x1pq812k.x1ja2u2z.x6ikm8r.xdt5ytf.x78zum5.x5lxg6s.x1q594ok.xb57i2i
-web.facebook.com##.x1daaz14.xxzkxad.x7wzq59.x10wlt62.x6ikm8r.x1u2d2a2.x1t2pt76.xxc7z9f.xnjgh8c.x112wk31.xnp8db0.x1ja2u2z.x9f619 > .x1t2pt76.xedcshv.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
-web.facebook.com##.x1daaz14.xxzkxad.x7wzq59.x10wlt62.x6ikm8r.x1u2d2a2.x1t2pt76.xxc7z9f.xnjgh8c.x112wk31.xnp8db0.x1ja2u2z.x9f619
-web.facebook.com##.x9e5oc1.xxzkxad.x7wzq59.x1xzczws.x10wlt62.x6ikm8r.x1u2d2a2.x1t2pt76.xxc7z9f.xnjgh8c.x112wk31.xnp8db0.x1ja2u2z.x9f619 > .x1t2pt76.xedcshv.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xq1qtft.x1n2onr6.x1e4zzel.x1odjw0f.x1oyok0e.xwo3gff.xx8ngbg.x2lwn1j.xs83m0k.x1iyjqo2.x1l7klhg.xjx87ck.x1yqm8si.xfk6m8.x1rohswg.x1pq812k.x1ja2u2z.x6ikm8r.xdt5ytf.x78zum5.x5lxg6s.x1q594ok.xb57i2i
-web.facebook.com##.x9e5oc1.xxzkxad.x7wzq59.x1xzczws.x10wlt62.x6ikm8r.x1u2d2a2.x1t2pt76.xxc7z9f.xnjgh8c.x112wk31.xnp8db0.x1ja2u2z.x9f619 > .x1t2pt76.xedcshv.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
-web.facebook.com##.x9e5oc1.xxzkxad.x7wzq59.x1xzczws.x10wlt62.x6ikm8r.x1u2d2a2.x1t2pt76.xxc7z9f.xnjgh8c.x112wk31.xnp8db0.x1ja2u2z.x9f619
-web.facebook.com##.x1y1aw1k.xwxc41k.x139jcc6.xcud41i.x1n2onr6.x10wlt62.x6ikm8r.x1nhvcw1.xozqiw3.x1q0g3np.x78zum5.x1qjc9v5
-web.facebook.com##.x1jfb8zj.x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1h9r5lt.x1h91t0o.x4k7w5x > .xi81zsa.x10f5nwc.x9bbmet.x100vrsf.x1vqgdyp.x1n2onr6.xkhd6sd.x18d9i69.x4uap5.xexx8yu.xl56j7k.x78zum5.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.xww2gxu.x18nykt9.xudhj91.x14yjl9h.x6s0dn4.x1a2a7pz.x1lku1pv.x87ps6o.xggy1nq.x1hl2dhg.x16tdsg8.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.x1ypdohk.xav7gou.xaqea5y.x1b1mbwd.x6umtig.x1i10hfl
-web.facebook.com##.x1a8lsjc.xz9dl7a.x1swvt13.x1pi30zi.x1a02dak.x78zum5.x6s0dn4
-web.facebook.com##.xhfbhpw.x1rohswg.x1y1aw1k.xwib8y2.xat24cr.x9f619.x7p5m3t.xw2csxc.xjx87ck.x1yqm8si.xfk6m8.x1pq812k.x1ja2u2z.x1n2onr6.x10wlt62.xdt5ytf.x78zum5.x5lxg6s.x1q594ok.xb57i2i
-web.facebook.com##.x1y1aw1k.xwib8y2.x9otpla.x1wsgfga.x1ja2u2z.x1n2onr6.x9f619
-web.facebook.com##.x1ja2u2z.xh8yej3.x1n2onr6.xjkvuk6.x1iorvi4
-web.facebook.com##.x1swvt13.xjkvuk6.x1pi30zi.xz9dl7a.x1qughib.x1q0g3np.x78zum5
-web.facebook.com##.x1swvt13.xr1496l.x1pi30zi.x1y1aw1k.xl56j7k.x1qx5ct2.x78zum5.x6s0dn4
-||z-p3-scontent.fcmb7-1.fna.fbcdn.net/v/t39.10873-6/35199281_1654916014607191_1767945415346356224_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=a86453&_nc_eui2=AeGp2csOEiuwFKj1G3haW6-7mSouJUh7YJOZKi4lSHtgk6zCnm8ryUSu8koG3QW9yXbw77nsxjOenuxGCrDHnRmy&_nc_ohc=ry6jVyCH-aoAX8zVWnd&_nc_ht=z-p3-scontent.fcmb7-1.fna&oh=00_AfC1UpOJ_i-Ei3THVKwgHnpsGxoLSXKKS1IZCqHKTsyHsw&oe=63ACD5FE$image
-||z-p3-scontent.fcmb7-1.fna.fbcdn.net/v/t39.10873-6/35199281_1654916014607191_1767945415346356224_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=a86453&_nc_eui2=AeGp2csOEiuwFKj1G3haW6-7mSouJUh7YJOZKi4lSHtgk6zCnm8ryUSu8koG3QW9yXbw77nsxjOenuxGCrDHnRmy&_nc_ohc=ry6jVyCH-aoAX8zVWnd&_nc_ht=z-p3-scontent.fcmb7-1.fna&oh=00_AfC1UpOJ_i-Ei3THVKwgHnpsGxoLSXKKS1IZCqHKTsyHsw&oe=63ACD5FE$image
-web.facebook.com##.xzkaem6.x13vifvy.xixxii4.x1e558r4.x1pi30zi.xds687c
-web.facebook.com##.x9e5oc1.x1i64zmx.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo2 > .x1jfb8zj.x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1h9r5lt.x1h91t0o.x4k7w5x > .x1n2onr6.x1s65kcs.x78zum5.x6s0dn4 > .xh8yej3.x1n2onr6.xl56j7k.x5yr21d.xdt5ytf.x78zum5.x6s0dn4.x1a2a7pz.x1lku1pv.x87ps6o.x13rtm0m.x1e5q0jg.x3x9cwd.x1o1ewxj.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.x1ypdohk.x9f619.xav7gou.xaqea5y.x1b1mbwd.x6umtig.xjbqb8w.x1i10hfl
-web.facebook.com##li.x1gz44f.x1i64zmx.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo2 > .x1jfb8zj.x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1h9r5lt.x1h91t0o.x4k7w5x > .x1n2onr6.x1s65kcs.x78zum5.x6s0dn4 > .xh8yej3.x1n2onr6.xl56j7k.x5yr21d.xdt5ytf.x78zum5.x6s0dn4.x1a2a7pz.x1lku1pv.x87ps6o.x13rtm0m.x1e5q0jg.x3x9cwd.x1o1ewxj.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.x1ypdohk.x9f619.xav7gou.xaqea5y.x1b1mbwd.x6umtig.xjbqb8w.x1i10hfl
+! 2023-01-05 https://www.simplilearn.com
+www.simplilearn.com###google_onetap_appened
 
-! 2022-12-25 https://www.reddit.com
-www.reddit.com##.TmgZY6tDcdErbE5d7E0HJ
-www.reddit.com###COIN_PURCHASE_DROPDOWN_ID
-www.reddit.com##a._3dZnYgFFpifT-M_Vs2FAq6:nth-of-type(1)
-www.reddit.com##._1vXXD2qKLnHetdKvisFzBD
-www.reddit.com##._24UNt1hkbrZxLzs5vkvuDh
-
+! 2023-01-16 https://1337x.to
+1337x.to##.search-categories
+1337x.to##.clearfix.box-info-detail
+1337x.to##.link-info-downloadstudio
+||1337x.to/css/images/black-gradient-bg.jpg$image
+||1337x.to/css/images/black-gradient-bg.jpg$image
+||1337x.to/css/images/black-gradient-bg.jpg$image
 
 
